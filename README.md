@@ -5,6 +5,8 @@ You can also perform addition, subtraction, multiplication and division operatio
 I plan to add more features the the application. If you have any idea and think would be useful, let me know.
 I will try to add.
 
+Note: Download the complete file, and double click on "IEEE754FormatterApp.exe". The exe file is dependant on other files.
+
 
 https://www.linkedin.com/in/muhammed-kocao%C4%9Flu-2b661b178/
 
