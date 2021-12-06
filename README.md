@@ -4,3 +4,6 @@ With this application, you can convert single or double precision Hexadecimal nu
 You can also perform addition, subtraction, multiplication and division operations on them.
 I plan to add more features the the application. If you have any idea and think would be useful, let me know.
 I will try to add.
+
+
+https://www.linkedin.com/in/muhammed-kocao%C4%9Flu-2b661b178/
